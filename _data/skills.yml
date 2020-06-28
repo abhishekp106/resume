@@ -1,12 +1,7 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# PL and libraries
+- skill: Programming Languages and Relevant Libraries
+  description: Python (pandas, scikit-learn, PyTorch), Java, LaTeX, R
+  
+- skill: Teaching
+  description: I have taught students ranging from middle school to college, in topics such as programming, competition math, and discrete math for 5+ years.
