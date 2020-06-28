@@ -23,7 +23,7 @@ resume_contact_address:         "901 Pheasant Run, Monmouth Junction"
 resume_header_contact_info:     "901 Pheasant Run, Monmouth Junction • (908) 421-3263 • abpandya@seas.upenn.edu"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi! I am a student at the University of Pennsylvania, majoring in Computer Science. I love teaching math and spreading the word about <a href='https://80000hours.org/key-ideas/'>effective altruism</a>. I am interested in AI Safety and Deep Learning. </p>"
+resume_header_intro: "<p>Hi! I am a student at the University of Pennsylvania, majoring in Computer Science. I love teaching math and spreading the word about <a href='https://80000hours.org/key-ideas/'>effective</a> <a href='https://www.1fortheworld.org/'>altruism</a>. I am interested in AI Safety and Deep Learning. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
