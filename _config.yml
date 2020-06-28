@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Abhishek Pandya"
+description: "Abhishek Pandya's Personal Website. CS Student at UPenn."
 
 # Build settings
 markdown: kramdown
@@ -17,10 +17,10 @@ resume_title:                   "CS & ML @ Penn"
 resume_contact_email:           "abpandya@seas.upenn.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "908-421-3263"
+resume_contact_address:         "901 Pheasant Run, Monmouth Junction"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "901 Pheasant Run, Monmouth Junction • 908-421-3263 • abpandya@seas.upenn.edu"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
