@@ -2,8 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # DQN
-- project: DQN
+- project: Deep Q-Learning (DQN)
   role: Developer
   duration: June 2020
-  # url: ""
-  description: "I implemented the Deep Reinforcement Learning Algorithm DQN, described in the Deepmind <a href='https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf'>Paper</a>. It works on toy environments (CartPole), and I am working on adapting this to Atari games."
+  url: "https://github.com/abhishekp106/DeepRL"
+  description: "I implemented the Deep Reinforcement Learning Algorithm DQN, described in the Deepmind Paper <a href='https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf'>here</a> in PyTorch. It works on toy environments (CartPole), and I am working on adapting this to Atari games."
+
+# VPG
+- project: Vanilla Policy Gradient (VPG)
+  role: Developer
+  duration: June 2020
+  url: "https://github.com/abhishekp106/DeepRL"
+  description: "I implemented a Vanilla Policy Gradient Algorithm, using an average reward as baseline and reward-to-go."
+  
