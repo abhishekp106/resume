@@ -1,19 +1,13 @@
 # Degree
-- degree: BA Computer Science
-  uni: University of California, Berkeley
-  year: 2019 &mdash; 2022
-  summary: 'Coursework: (CS61B) Data Structures, (CS61A) The Structure and Interpretation of Computer Programs, (CS70) Discrete Mathematics and Probability Theory <br>
-  GPA: 3.94/4.0'
-
-- degree: BA Applied Mathematics & Statistics Concentration
-  uni: University of California, Berkeley
-  year: 2019 &mdash; 2022
-  summary: 'Coursework: (Math104) Real Analysis, (Math110) Abstract Linear Algebra, (MathC103) Mathematical Economics <br>
+- degree: BAS, Computer and Information Science
+  uni: University of Pennsylvania
+  year: 2019 &mdash; 2023
+  summary: 'Coursework: Engineering Probability <br>
   GPA: 3.94/4.0'
 
 - degree: High School Diploma
   uni: South Brunswick High School
-  year: 2015 &mdash; 2019
+  year: 2019
   awards: 
     - award: Outstanding Math Student. 
     - award: Governor's School nomination for Top 3 in class of 700. 
