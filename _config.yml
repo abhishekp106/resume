@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Abhishek Pandya"
-resume_title:                   "CS & ML @ Penn"
+resume_title:                   "CS @ Penn"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "abpandya@seas.upenn.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "908-421-3263"
+resume_contact_telephone:       "(908) 421-3263"
 resume_contact_address:         "901 Pheasant Run, Monmouth Junction"
 
-resume_header_contact_info:     "901 Pheasant Run, Monmouth Junction • 908-421-3263 • abpandya@seas.upenn.edu"
+resume_header_contact_info:     "901 Pheasant Run, Monmouth Junction • (908) 421-3263 • abpandya@seas.upenn.edu"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Hi! I am a student at the University of Pennsylvania, majoring in Computer Science. I love teaching math and spreading the word about <a href='https://80000hours.org/key-ideas/'>effective altruism</a>. I am interested in AI Safety and Deep Learning. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -34,7 +34,7 @@ resume_looking_for_work:        "yes"
 # Decide which sections to use
 # comment out to hide
 resume_section_education:       true
-resume_section_experience:      true
+#resume_section_experience:      true
 resume_section_projects:        true
 resume_section_skills:          true
 #resume_section_recognition:     true
